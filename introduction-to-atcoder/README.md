@@ -136,9 +136,10 @@ AtCoder では、毎週土・日に 21:00 からコンテストが開催され�
 
 ## 過去問を解いてみよう
 [AtCoder Problems](https://kenkoooo.com/atcoder#/table/) というサイトで、自身の AtCoder ID を入力すると、ご覧のように解いた問題が緑色に光ります。
-（AtCoder Problems の画像）
+
+![Screen Shot 2021-02-22 at 0 48 07](https://user-images.githubusercontent.com/47474057/108630352-aade7c00-74a7-11eb-9702-374017916499.png)
 
 サイト一面を緑に染めましょう。
 
-最初は、AtCoder Begginer Contest の A, B 問題を得といいです。解けてきたら、C, D 問題に挑戦しましょう。
+最初は、AtCoder Begginer Contest の A, B 問題を解くと良いです。順調に解けてきたら、C, D 問題に挑戦しましょう。
 
