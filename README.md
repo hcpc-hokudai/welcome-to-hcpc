@@ -6,8 +6,8 @@
 まずは、一通りこの資料に目を通してみてください。
 わからないことは、気軽に Slack の #discussion で質問してください。
 
-公式ホームページ：https://hcpc-hokudai.github.io/
-公式 twitter：https://twitter.com/hcpc_hokudai
+- 公式ホームページ：https://hcpc-hokudai.github.io/
+- 公式 twitter：https://twitter.com/hcpc_hokudai
 
 ## HCPC の活動目的
 HCPC は、競技プログラミングの能力向上を目的とした活動を行います。
