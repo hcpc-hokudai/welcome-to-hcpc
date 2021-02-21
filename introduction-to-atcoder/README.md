@@ -90,7 +90,7 @@ N を W で割った商が答えです。
 `//` から始まる行は、プログラム上では無視されます。コメントアウトというものです。
 
 ```C++
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 int main() {
