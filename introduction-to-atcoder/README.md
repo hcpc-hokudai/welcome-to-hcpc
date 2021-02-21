@@ -13,7 +13,7 @@ AtCoder のアカウントを作成しましょう。
 
 https://atcoder.jp/register
 
-（画像、アカウント作成）
+![Screen Shot 2021-02-21 at 18 25 48](https://user-images.githubusercontent.com/47474057/108630294-53d8a700-74a7-11eb-9ce6-61db055813f6.png)
 
 ### 環境構築
 あなたは、普段、プログラムを書きますか？
@@ -58,7 +58,8 @@ int main() {
 }
 ```
 
-（画像 コードテスト）
+![Screen Shot 2021-02-22 at 0 43 26](https://user-images.githubusercontent.com/47474057/108630299-55a26a80-74a7-11eb-8741-3f022d8ffbbb.png)
+
 
 これで、プログラムを書く準備は整いました。
 手元に環境構築するか、AtCoder のコードテストで済ませるかは、ご自身に任せます。
@@ -122,9 +123,9 @@ int main() {
 
 遷移先のページで、`AC` が表示されたら成功です！
 
-（コード提出前の画像）
-（AC の画像）
+![Screen Shot 2021-02-22 at 0 45 00](https://user-images.githubusercontent.com/47474057/108630300-56d39780-74a7-11eb-95e2-9d863a7a4ccc.png)
 
+![Screen Shot 2021-02-22 at 0 45 16](https://user-images.githubusercontent.com/47474057/108630304-5804c480-74a7-11eb-8a84-63576a5013d9.png)
 
 ## コンテストに出場してみよう
 AtCoder では、毎週土・日に 21:00 からコンテストが開催されます。
