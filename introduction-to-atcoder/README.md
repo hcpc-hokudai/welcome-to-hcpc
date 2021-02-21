@@ -131,7 +131,7 @@ int main() {
 AtCoder では、毎週土・日に 21:00 からコンテストが開催されます。
 コンテストの成績によって、自分の実力値を表すレートが変動します。
 
-https://github.com/hcpc-hokudai/welcome-to-hcpc/issues/1
+![Screen Shot 2021-02-22 at 0 49 19](https://user-images.githubusercontent.com/47474057/108630373-d95c5700-74a7-11eb-9c55-a50656b364b4.png)
 
 レートに応じて色が付与されるので、上位の色を目指して頑張りましょう！
 
