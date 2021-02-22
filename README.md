@@ -1,3 +1,7 @@
+# 競技プログラミングに入門するには？
+競技プログラミングを全くやったことがない方のために、入門資料を用意しました。
+[ここ](https://github.com/hcpc-hokudai/welcome-to-hcpc/tree/master/introduction-to-atcoder)をクリックして、早速競技プログラミング入門しましょう！！
+
 # HCPC へようこそ！！
 この資料は、HCPC へ入部してくれたみなさんが、すんなり活動に参加できるために作られたものです。
 
@@ -8,10 +12,6 @@
 
 - 公式ホームページ：https://hcpc-hokudai.github.io/
 - 公式 twitter：https://twitter.com/hcpc_hokudai
-
-# 競技プログラミングに入門するには？
-競技プログラミングを全くやったことがない方のために、入門資料を用意しました。
-[ここ](https://github.com/hcpc-hokudai/welcome-to-hcpc/tree/master/introduction-to-atcoder)をクリックして、早速競技プログラミング入門しましょう！！
 
 ## HCPC の活動目的
 HCPC は、競技プログラミングの能力向上を目的とした活動を行います。
