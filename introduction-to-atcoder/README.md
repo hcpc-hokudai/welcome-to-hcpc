@@ -93,7 +93,7 @@ AtCoder では、毎週土・日に 21:00 からコンテストが開催され�
 レートに応じて色が付与されるので、上位の色を目指して頑張りましょう！
 
 - [AtCoder 社長のブログ](http://chokudai.hatenablog.com/entry/2019/02/11/155904)
-- [業務における期待できる活躍(AtCoder公式)](https://info.atcoder.jp/utilize/jobs/rating-business-impact)
+- [業務における期待できる活躍（AtCoder公式）](https://info.atcoder.jp/utilize/jobs/rating-business-impact)
 > 400ごとに色がついていて、赤・橙・黄・青・水・緑・茶・灰・黒、という順番になってます。
 > 誤解を恐れずに超ざっくりとイメージでの評価をするなら、
 > - 灰色は参加すれば誰でもなれるので意欲以外の保証はなし。
