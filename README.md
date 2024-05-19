@@ -1,6 +1,6 @@
 # 競技プログラミングに入門するには？
 競技プログラミングを全くやったことがない方のために、入門資料を用意しました。
-[ここ](https://github.com/hcpc-hokudai/welcome-to-hcpc/tree/master/introduction-to-atcoder)をクリックして、早速競技プログラミング入門しましょう！！
+[ここ](https://github.com/hcpc-hokudai/welcome-to-hcpc/blob/master/introduction-to-atcoder/README.md)をクリックして、早速競技プログラミング入門しましょう！！
 
 # HCPC へようこそ！！
 この資料は、HCPC へ入部してくれたみなさんが、すんなり活動に参加できるために作られたものです。
