@@ -110,6 +110,9 @@ AtCoder では、毎週土・日に 21:00 からコンテストが開催され�
 競プロの問題を解いて実力をつけることを「精進」と呼びます。競プロの上達のためには、コンテストに出る以外にも精進をすることが大切です。
 今からその方法の例をいくつか紹介します。
 
+- AtCoder Beginners Selection
+  - こちらの[記事](https://qiita.com/drken/items/fd4e5e3630d0f5859067)の 5 章で紹介されている問題集です。初心者向けにかなりわかりやすく解法が解説されており、 AtCoder で出題される問題の雰囲気を掴むのにぴったりです。解説記事の言語は C++ ですが、コメントがしっかりついているので Python 使用者の方でも問題なく読めると思います。
+
 - AtCoder Problems
   - [AtCoder Problems](https://kenkoooo.com/atcoder#/table/) というサイトで、自身の AtCoder ID を入力すると、ご覧のように解いた問題が緑色に光ります。
   ![Screen Shot 2021-02-22 at 0 48 07](https://user-images.githubusercontent.com/47474057/108630352-aade7c00-74a7-11eb-9702-374017916499.png)
